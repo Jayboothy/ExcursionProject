@@ -1,2 +1,0 @@
-# ExcursionProject
-Excursion
